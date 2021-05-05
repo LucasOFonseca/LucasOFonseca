@@ -3,7 +3,7 @@
 
 - Hey! My name is Lucas Fonseca, I'm Information Systems academic at the State University of Goias (in Portuguese: Universidade Estadual de Goiás).
 
-- My passion is to learn, I always seek to improve what I know and discover something new to learn. I am looking for opportunities to collaborate with web projects. I have average experience in Html, CSS and Javascript and I'm also studying NodeJs.
+- My passion is to learn, I always seek to improve what I know and discover something new to learn. I am looking for opportunities to collaborate with web projects. I have average experience in HTML, CSS and JavaScript and I'm also studying ReactJs and NextJs.
 
 - I hope to be useful in your project!
 <!---
