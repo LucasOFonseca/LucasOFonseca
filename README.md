@@ -8,9 +8,15 @@
 
 ### Languages and technologies:
 
-
+<br>
+<img align="center" src="imgs/languages.png"/>
+<br>
 
 ### Programs and tools:
+
+<br>
+<img align="center" src="imgs/tools.png"/>
+<br>
 
 ### Stats
 
