@@ -24,7 +24,7 @@
 
 ### Stats
 
-<img height="207px" src="https://github-readme-stats.vercel.app/api?username=LucasOFonseca&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true"/><img height="207px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasOFonseca&layout=compact&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&hide_border=true"/>
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=LucasOFonseca&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true"/><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasOFonseca&layout=compact&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&hide_border=true"/>
 
 ### 🏆 Profile trophies
 
