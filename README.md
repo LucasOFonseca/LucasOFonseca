@@ -6,16 +6,20 @@
 - ❤ My passion is to learn, I always seek to improve what I know and discover something new.
 - 🤝 I am looking for opportunities to collaborate with web projects.
 
-### Languages and technologies:
+### 🚀 Languages and technologies:
 
 <br>
-<img align="center" src="imgs/languages.png"/>
+<p align="center">
+  <img src="imgs/languages.png"/>
+</p>
 <br>
 
-### Programs and tools:
+### 💻 Programs and tools:
 
 <br>
-<img align="center" src="imgs/tools.png"/>
+<p align="center">
+  <img src="imgs/tools.png"/>
+</p>
 <br>
 
 ### Stats
