@@ -4,6 +4,7 @@
 
 - 🎓 I study at the State University of Goias.
 - ❤ My passion is to learn, I always seek to improve what I know and discover something new.
+- 💡 Currently, I'm improving my knowledge of Node.js and Electron.
 - 🤝 I am looking for opportunities to collaborate with web projects.
 
 ### 🚀 Languages and technologies:
