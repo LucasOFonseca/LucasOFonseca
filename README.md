@@ -29,6 +29,12 @@
 
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=LucasOFonseca&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true"/><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasOFonseca&layout=compact&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&hide_border=true"/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasOFonseca/LucasOFonseca/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasOFonseca/LucasOFonseca/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/LucasOFonseca/LucasOFonseca/output/github-snake.svg" />
+</picture>
+
 ### 🏆 Profile trophies
 
 <p align="center">
